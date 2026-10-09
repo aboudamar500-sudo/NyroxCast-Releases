@@ -1,6 +1,14 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "downloadUrl": "https://github.com/aboudamar500-sudo/NyroxCast-Releases/releases/latest/download/NyroxCast-TV.apk",
-  "releaseNotes": "الإصدار الأول من Nyrox Cast TV"
+  "tv": {
+    "versionCode": 2,
+    "versionName": "1.1",
+    "downloadUrl": "https://github.com/aboudamar500-sudo/NyroxCast-Releases/releases/download/v1.2/NyroxCast-TV.apk",
+    "releaseNotes": "إضافة نظام التحديث التلقائي"
+  },
+  "remote": {
+    "versionCode": 2,
+    "versionName": "1.1",
+    "downloadUrl": "https://github.com/aboudamar500-sudo/NyroxCast-Releases/releases/download/v1.2/NyroxCast-Remote.apk",
+    "releaseNotes": "إضافة نظام التحديث التلقائي"
+  }
 }
